@@ -1,4 +1,5 @@
 #DATA SCIENCE AND TOOLKIT
+Q1.
 
 # Load libraries
 library(tidyverse)
@@ -76,3 +77,4 @@ print(p4)
 dev.off()
 
 cat("PDF with all plots saved as: visualizations.pdf\n")
+
